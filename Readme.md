@@ -5,9 +5,8 @@
 | Projects | Status  | 
 | :---:   | :-: | 
 | Yiğit Blog | Pending |
-| [VEX API](https://vex-api.glitch.me/) | Active |
+| [VEX API](https://vex-api.glitch.me/) & [vex-tools](https://npmjs.com/vex-tools) | Active |
 | [vexdatabase](https://npmjs.com/vexdatabase) | Done |
-| [vex-tools](https://npmjs.com/vex-tools) | Active |
 | [discord-snakegame](https://www.npmjs.com/package/discord-snakegame/v/1.0.3) | Active |
 
 ## Follow me on social media
