@@ -7,7 +7,7 @@
 | Yiğit Blog | Pending |
 | [VEX API](https://vex-api.glitch.me/) & [vex-tools](https://npmjs.com/vex-tools) | Active |
 | [vexdatabase](https://npmjs.com/vexdatabase) | Done |
-| [discord-snakegame](https://www.npmjs.com/package/discord-snakegame/v/1.0.3) | Active |
+| [discord-snakegame](https://www.npmjs.com/package/discord-snakegame/) | Active |
 
 ## Follow me on social media
 ![twitter/SherlockYigit](https://img.shields.io/twitter/follow/SherlockYigit?style=social)
