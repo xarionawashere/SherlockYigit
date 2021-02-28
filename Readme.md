@@ -10,4 +10,4 @@ My name is Yiğit, I am developing software as a hobby.
 | [VEX API](https://vex-api.glitch.me/) & [vex-tools](https://npmjs.com/vex-tools) | Active |
 | Yiğit Blog | Pending |
 
-<img src="https://github-readme-stats.vercel.app/api?username=SherlockYigit&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true" width="50%">
+![stats](https://github-readme-stats.vercel.app/api?username=SherlockYigit&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true)
