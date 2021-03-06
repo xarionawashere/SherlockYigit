@@ -1,13 +1,27 @@
-## Hi there 👋
-My name is Yiğit, I am developing software as a hobby.
+<h2>Hi there 👋</h2>
+My name is Yiğit. I'm a Full stack developer and student. I am learning the software langs. to get confused. I know Javascript and Typescript. Libraries I am using; 
+<ul>
+  <li><a href="https://nextjs.org">Next.js</a></li>
+  <li><a href="https://tailwindcss.com/docs">TailwindCSS</a></li>
+</ul>
 
-![twitter/SherlockYigit](https://img.shields.io/twitter/follow/SherlockYigit?style=social)
+<a href="https://img.shields.io/twitter/follow/SherlockYigit?style=social">
+  <img src="https://img.shields.io/twitter/follow/SherlockYigit?style=social">
+</a>
 
-| Projects | Status  | 
-| :---:   | :---: | 
-| [orio.db](https://npmjs.com/orio.db) | Active |
-| [discord-snakegame](https://www.npmjs.com/package/discord-snakegame/) | Active |
-| [VEX API](https://vex-api.glitch.me/) & [vex-tools](https://npmjs.com/vex-tools) | Active |
-| Yiğit Blog | Pending |
+<table width="50%" align="left">
+  <tr>
+    <th>Project</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td><a href="https://npmjs.com/orio.db">OrioDB</a></td>
+    <td>Active</td>
+  </tr>
+  <tr>
+    <td><a href="https://npmjs.com/discord-snakegame">Discord Snakegame</a></td>
+    <td>Active</td>
+  </tr>
+</table>
 
-![stats](https://github-readme-stats.vercel.app/api?username=SherlockYigit&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true)
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=SherlockYigit&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true">
