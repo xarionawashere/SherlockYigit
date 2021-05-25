@@ -1,9 +1,7 @@
 <h1>Hi there 👋</h1>
-<br>
 <p>My name is Yiğit. I'm a full stack developer and a student. I'm 17 years old now, and I have some small projects. I spend more time from classes on my projects and cycling.</p>
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=SherlockYigit&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true">
 <h2>I love use ❤️</h2>
-<br>
 <div align="flex">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"> 
@@ -44,7 +42,10 @@
   </a>
 </div>
 <br>
-<table>
+<br>
+<hr>
+
+<table align="center">
   <tr>
     <td>Project</td>
     <td>Status</td>
