@@ -34,7 +34,7 @@
       </a>
       <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
       <a href="https://archlinux.org/">
-        <img src="https://img.shields.io/badge/-Arch Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white">
+        <img src="https://img.shields.io/badge/-Arch Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white">
       </a>
       <a href="https://sass-lang.com/documentation">
         <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white">
@@ -46,11 +46,15 @@
         <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
       </a>
       <a href="https://tailwindcss.com/docs">
-        <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind&logoColor=white">
+        <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
       </a>
       <img src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white">
+      <img src="https://img.shields.io/badge/-Bash%20Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white">
       <a href="https://www.adobe.com/tr/products/photoshop.html">
-        <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"> 
+        <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white"> 
+      </a>
+      <a href="https://www.spotify.com/tr/">
+        <img src="https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white">
       </a>
     </div>
   </div>
