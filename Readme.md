@@ -38,9 +38,6 @@
       <a href="https://nodejs.org/">
         <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=node-dot-js&logoColor=white">
       </a>
-      <a href="https://vitejs.dev/">
-        <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
-      </a>
       <a href="https://reactjs.org/">
         <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white">
       </a>
