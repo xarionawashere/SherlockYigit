@@ -83,7 +83,7 @@
     <td>Description</td>
   </tr>
   <tr>
-    <td><a href="https://website-sherlockavci.vercel.app/">website</a></td>
+    <td><a href="https://website-yigitsh.vercel.app/">website</a></td>
     <td>Active</td>
     <td>My portfolio/blog web site.</td>
   </tr>
