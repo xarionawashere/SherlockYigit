@@ -36,7 +36,7 @@
         <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
       </a>
       <a href="https://nodejs.org/">
-        <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=node-dot-js&logoColor=white">
+        <img src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node-dot-js&logoColor=white">
       </a>
       <a href="https://reactjs.org/">
         <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white">
