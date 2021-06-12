@@ -65,9 +65,6 @@
       <a href="https://www.chartjs.org/">
         <img src="https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chart-dot-js&logoColor=white">
       </a>
-      <a href="https://ckeditor.com/">
-        <img src="https://img.shields.io/badge/-CK Editor-0287D0?style=flat-square&logo=ckeditor-4&logoColor=white">
-      </a>
     </div>
   </div>
 </div>
