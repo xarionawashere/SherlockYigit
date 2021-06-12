@@ -1,7 +1,7 @@
 <h1>Hi there 👋</h1>
 <p>My name is Yiğit. I'm a full stack developer and a student. I'm 17 years old now, and I have some small projects. I spend more time from classes on my projects and cycling.</p>
 <div align="flex">
-  <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=SherlockYigit&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=SherlockYigit&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true">
   <div>
     <h2>I love use ❤️</h2>
     <div align="flex">
